@@ -1,6 +1,6 @@
 /*
 Black Ops 3 Campaign Auto-Splitter
-By: Ndt
+By: Fug
 
 This is an auto-splitter and load remover for BO3 campaign speedruns. As of right now, there are different
 versions of the game, so I will breakdown how to find these memory codes easily incase any of them are
